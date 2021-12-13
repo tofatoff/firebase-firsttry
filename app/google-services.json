@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169676740651",
+    "firebase_url": "https://firstlearn-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firstlearn-firebase",
+    "storage_bucket": "firstlearn-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169676740651:android:9b2c5663e68215caf2726e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169676740651-bjfuqum73kq4fkrh9suijat39sobpkqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv2_GEYQzpnnGRVBwCRJ3jrO9J-w6o6bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169676740651-bjfuqum73kq4fkrh9suijat39sobpkqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
